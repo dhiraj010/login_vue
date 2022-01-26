@@ -1,2 +1,2 @@
 # login_vue
-login logout page using vue3 and firebase
+login and logout page using vue-3 and firebase-9
